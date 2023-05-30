@@ -10,7 +10,7 @@
 #### The scope of the project is to understand ho w does the word vector or embedding generated from different Language Models perform for a given task. Understand how does word embeddings generated work for semantic relationship and syntetical relastionship. 
 #### Also explore the possibility of using a stack embedding for better semnatic search.
 
-# Models explored:- Word2vec, BERT (Different alteration with the layers), LLM Model (OPEN-AI).
+### Models explored:- Word2vec, BERT (Different alteration with the layers), LLM Model (OPEN-AI).
  
 ### Task done/ going:-
 #### 1) Train a Word 2 vec with different vector dimension , min_count to generate embeddings.
