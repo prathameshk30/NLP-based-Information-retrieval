@@ -1,4 +1,4 @@
-# NLU-based-Information-retrieval
+# NLP-based-Information-retrieval
 
  <img src="https://github.com/prathameshk30/NLP-based-Information-retrieval/assets/89546195/4e48c201-33ad-4988-87c6-026584f1ba5e" width=70% height=70%>
 
