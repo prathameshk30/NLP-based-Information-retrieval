@@ -1,6 +1,7 @@
 # NLP-based-Information-retrieval
 
- < img src="https://github.com/prathameshk30/NLP-based-Information-retrieval/assets/89546195/193ed4bf-2942-489e-a5df-127652a0cf3a"  width=150% height=150%>
+ <img src="https://github.com/prathameshk30/NLP-based-Information-retrieval/assets/89546195/4e48c201-33ad-4988-87c6-026584f1ba5e" width=150% height=150%>
+
  
  # Goal:-
  #### To design the best embedding for the given corpus of COVID- 19 text that can be used directly with any search emgine to fetch the relevant title & url to a given query.
