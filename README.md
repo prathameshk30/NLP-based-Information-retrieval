@@ -13,7 +13,7 @@
 ## Models explored:- 
 ### Word2vec, BERT (Different alteration with the layers), LLM Model (OPEN-AI).
  
-### Task done/ going:-
+## Task done/ going:-
 #### 1) Train a Word 2 vec with different vector dimension , min_count to generate embeddings.
 #### 2) Generate BERT Embeddings with different configuration of the layers such as (last 4 (concat, mean, sum) ,last layer only, second last layer)
 #### 3) Generate Embedding using LLM such as OPEN AI.
